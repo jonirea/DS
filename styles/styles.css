@@ -1,0 +1,14 @@
+*{  
+    background-color: #2a7da2;
+}
+
+
+.imagen img {   
+
+    width: 60%;
+    height: 60%;
+    position: center;
+    position: relative;
+    left: 20%;
+    margin-top: 2%;
+}
